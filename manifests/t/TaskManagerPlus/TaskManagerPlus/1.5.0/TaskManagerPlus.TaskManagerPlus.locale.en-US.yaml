@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: TaskManagerPlus.TaskManagerPlus
-PackageVersion: 1.1.0
+PackageVersion: 1.5.0
 PackageLocale: en-US
 Publisher: Task Manager+ contributors
 PublisherUrl: https://github.com/tombanaszek1-sketch/TaskManagerPlus
@@ -24,6 +24,6 @@ Tags:
 - process-manager
 - system-monitor
 - task-manager
-ReleaseNotesUrl: https://github.com/tombanaszek1-sketch/TaskManagerPlus/releases/tag/v1.1.0
+ReleaseNotesUrl: https://github.com/tombanaszek1-sketch/TaskManagerPlus/releases/tag/v1.5.0
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
